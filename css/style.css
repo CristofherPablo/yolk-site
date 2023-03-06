@@ -171,6 +171,12 @@ main .quote > .button_quote{
     border-radius: 10px;
 }
 
+main .quote > .button_quote:hover{
+    background-color: #fee600;
+    cursor: pointer;
+}
+
+/* Ends over here */
 
 div{
     display: block;
